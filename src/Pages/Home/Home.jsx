@@ -19,7 +19,7 @@ const Home = () => {
                 <div className="md:col-span-2">
                     <h2 className="text-4xl">News Coming soon...</h2>
                 </div>
-                <div>
+                <div >
                     <RightSideNav></RightSideNav>
                 </div>
             </div>
